@@ -9,3 +9,9 @@ const rl= readline.createInterface({
 function maximoDeTres(n1,n2,n3){
     return Math.max(n1,n2,n3);
 }
+
+rl.question('Ingrese el primer número:',(respuesta1)=>{
+    rl.question('Ingrese el número:',(respuesta2)=>{
+        
+    })
+})
